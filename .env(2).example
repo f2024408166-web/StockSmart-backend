@@ -1,3 +1,0 @@
-DATABASE_URL=postgresql+asyncpg://USER:PASSWORD@HOST:PORT/DBNAME
-SECRET_KEY=your-secret-key-here
-ALGORITHM=HS256
